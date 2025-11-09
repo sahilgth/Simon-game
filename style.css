@@ -49,6 +49,7 @@ footer{
 
 button{
     background-color: darkgoldenrod;
+    color : black;
     border-radius: 1rem;
     font-family:monospace;
     font-style: italic;
